@@ -22,7 +22,7 @@ This operation is used to delete a JSON object. The input needed are needed is a
 This operation is used to from the application
 
 ## Images
-<a href = "https://drive.google.com/file/d/19Bj2qbymOTWm5bqPHemgNqmdeUo5brBd/view?usp=sharing">Run command</a>
+<img src = "https://drive.google.com/file/d/19Bj2qbymOTWm5bqPHemgNqmdeUo5brBd/view?usp=sharing"/>
 
 Create Operation
 ![Create command](https://drive.google.com/file/d/16Hw4mJawbXij0PZs8V8WeFxfqabh0Per/view?usp=sharing)
