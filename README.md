@@ -22,25 +22,20 @@ This operation is used to delete a JSON object. The input needed are needed is a
 This operation is used to from the application
 
 ## Images
-<img src = "https://drive.google.com/file/d/19Bj2qbymOTWm5bqPHemgNqmdeUo5brBd/view?usp=sharing"/>
+<a href = "https://drive.google.com/file/d/19Bj2qbymOTWm5bqPHemgNqmdeUo5brBd/view?usp=sharing">Run Operation Image</a>
 
-Create Operation
-![Create command](https://drive.google.com/file/d/16Hw4mJawbXij0PZs8V8WeFxfqabh0Per/view?usp=sharing)
+<a href = "https://drive.google.com/file/d/16Hw4mJawbXij0PZs8V8WeFxfqabh0Per/view?usp=sharing">Create Operation Image</a>
 
-Read Operation
-![Read command](https://drive.google.com/file/d/1LodafV_CBuhp9mewthIIzA2PT2X31sKQ/view?usp=sharing)
+<a href = "https://drive.google.com/file/d/1LodafV_CBuhp9mewthIIzA2PT2X31sKQ/view?usp=sharing">Read Operation Image</a>
 
-Before Delete
-![Before command](https://drive.google.com/file/d/1ZZTMzLf7evHwA6k06vx6Qi-Pm4XTh3kZ/view?usp=sharing)
+<a href = "https://drive.google.com/file/d/1ZZTMzLf7evHwA6k06vx6Qi-Pm4XTh3kZ/view?usp=sharing">Before Delete Image</a>
 
-After Delete
-![After command](https://drive.google.com/file/d/1x8NoOd4WH0wJKrP4eZj-0j-4g1VcRwOQ/view?usp=sharing)
+<a href = "https://drive.google.com/file/d/1x8NoOd4WH0wJKrP4eZj-0j-4g1VcRwOQ/view?usp=sharing">After Delete Image</a>
 
-Exit
-![Exit command](https://drive.google.com/file/d/1xSxAHgZhZBmzEQVpRceM50a-_sR6KTTX/view?usp=sharing)
+<a href = "https://drive.google.com/file/d/1xSxAHgZhZBmzEQVpRceM50a-_sR6KTTX/view?usp=sharing">Exit Operation Image</a>
 
-CSV File
-![CSV command](https://drive.google.com/file/d/1hnJ14CyvlPI2RfcwxWKUfUlPPd_CZne1/view?usp=sharing)
+<a href = "https://drive.google.com/file/d/1hnJ14CyvlPI2RfcwxWKUfUlPPd_CZne1/view?usp=sharing">CSV File Image</a>
+
 
 ## Issues facing now
 I have implemented an expiry date function which deletes the key along with its other data. I am finding a little bit to synchronize it.
