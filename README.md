@@ -38,7 +38,7 @@ This operation is used to from the application
 
 
 ## Issues facing now
-I have implemented an expiry date function which deletes the key along with its other data. I am finding a little bit issue is to synchronize it.
+I have implemented an expiry date function which deletes the key along with its other data. I am finding a little bit issue to synchronize it.
 
 
 ## Conclusion
